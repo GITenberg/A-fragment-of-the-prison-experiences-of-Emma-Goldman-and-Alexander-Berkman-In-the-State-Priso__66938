@@ -1,5 +1,8 @@
 _repo: A-fragment-of-the-prison-experiences-of-Emma-Goldman-and-Alexander-Berkman-In-the-State-Priso__66938
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66938-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Goldman, Emma
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37004
     wikipedia: http://en.wikipedia.org/wiki/Alexander_Berkman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66938#A-fragment-of-the-prison-experiences-of-Emma-Goldman-and-Alexander-Berkman-In-the-State-Priso_
 gutenberg_issued: '2021-12-13'
 identifiers:
   gutenberg: '66938'
